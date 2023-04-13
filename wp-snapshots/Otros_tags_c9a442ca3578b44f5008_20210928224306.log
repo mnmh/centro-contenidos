@@ -1,0 +1,84 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: September 28, 2021 10:43 pm
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.3.36
+WORDPRESS:	5.4.6
+PHP INFO:	7.0.33-27+ubuntu16.04.1+deb.sury.org+1 | SAPI: apache2handler
+SERVER:		Apache/2.4.18 (Ubuntu) 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (512M default) 
+MEMORY STACK: 2MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: Otros_tags_c9a442ca3578b44f5008_20210928224306_database.sql
+SQL FILE SIZE: 7.25MB (7601758)
+SQL FILE TIME: 2021-09-28 22:43:21
+SQL RUNTIME: 0.31 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  /var/www/html/cc
+ARCHIVE FILE: Otros_tags_c9a442ca3578b44f5008_20210928224306_archive.zip
+FILTERS: *ON*
+DIRS:
+	/var/www/html/cc/wp-content/uploads
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	98.4MB
+STATS:	Dirs 633 | Files 3,652
+SQL ADDED: Otros_tags_c9a442ca3578b44f5008_20210928224306_database.sql
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 4285
+    [filename] => /var/www/html/cc/wp-snapshots/tmp/Otros_tags_c9a442ca3578b44f5008_20210928224306_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 4284
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 46.73MB
+ARCHIVE RUNTIME: 7.05 sec.
+MEMORY STACK: 4MB
+building installer
+add_extra_files1
+add_extra_files2
+add_extra_files3
+add_extra_files4
+Doing archive file check
+add_extra_files5
+add_extra_files6
+add_extra_files8
+Successfully opened zip /var/www/html/cc/wp-snapshots/tmp/Otros_tags_c9a442ca3578b44f5008_20210928224306_archive.zip
+Adding enhanced installer files to archive using ZipArchive
+Installer files added to archive
+Added to archive
+After ziparchive close when adding installer
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 7.25MB
+INSTALLER FILE: 61.31KB
+ARCHIVE FILE: 48.23MB 
+EXPECTED FILE/DIRECTORY COUNT: 4,285
+ACTUAL FILE/DIRECTORY COUNT: 4,284
+ARCHIVE CONSISTENCY TEST: Pass
+
+********************************************************************************
+RECORD ID:[6]
+TOTAL PROCESS RUNTIME: 7.96 sec.
+PEAK PHP MEMORY USED: 6MB
+DONE PROCESSING => Otros_tags September 28, 2021 10:43 pm
+
